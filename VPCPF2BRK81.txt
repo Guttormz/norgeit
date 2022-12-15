@@ -5,10 +5,31 @@ OS versjon: Windows-10-10.0.22621-SP0
  
 ----------Diskplass informasjon---------- 
 Totalt: 237 GB
-Brukt: 79 GB
+Brukt: 80 GB
 Ubrukt: 157 GB
  
 ----------IP informasjon---------- 
 IP adressen er: 10.16.84.30
  
 ----------Installert programvare---------- 
+VikenWifi                                                       
+Xerox Desktop Print Experience 6.5                              
+Class Notebook Add-in for OneNote (IT Install)                  
+Configuration Manager Client                                    
+ConfigMgr Client Setup Bootstrap                                
+AppsAnywhere                                                    
+Microsoft Visual C++ 2019 X64 Additional Runtime - 14.28.29914  
+Viken - Selvhjelp                                               
+Viken Admin-Passord                                             
+Stiler og Maler                                                 
+                                                                
+Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29914     
+Teams Machine-Wide Installer                                    
+Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.28.29914     
+Cloudpaging Player                                              
+Microsoft Intune Management Extension                           
+Driveroppdatering                                               
+Microsoft Policy Platform                                       
+
+'
+Ferdig
