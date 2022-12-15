@@ -30,3 +30,5 @@ fil.write("IP adressen er: " + Ip + "\n \n")
 
 fil.write("----------Installert programvare---------- \n")
 fil.close()
+
+#test
