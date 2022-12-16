@@ -5,7 +5,7 @@ OS versjon: Windows-10-10.0.22621-SP0
  
 ----------Diskplass informasjon---------- 
 Totalt: 237 GB
-Brukt: 80 GB
+Brukt: 79 GB
 Ubrukt: 157 GB
  
 ----------IP informasjon---------- 
